@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode
+**/.idea
+*.code-workspace
+
+# mkdocs files
+.cache/
+
+# configuration files
+.flake8
+
+# build
+build
+site
+utils
+
+# test script
+test.sh
+
+# documentation
+docs/**/*.pdf
+
+# Specific Files
+hello-algo-1.1.0
